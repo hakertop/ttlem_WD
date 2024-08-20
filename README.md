@@ -4,7 +4,7 @@ Simulate the topographic evolution of the Wulongshan Dome
 English Description
 
 1. First, download the TopoToolBox open-source toolbox: https://github.com/wschwanghart/topotoolbox.git , and go to the ttlem program folder  
-2. Replace the program file ttlem_WD_Geology. m with the ttlem. m file in the ttlem folder  
+2. Replace the ttlem.m file in the ttlem folder with the program file ttlem_WD_Geology.m
 3. WD_Geology. mlx is the program runtime file  
 4. Data\WulongshanForTTLEM90.tif is a reconstructed ancient surface of the Wulongshan Dome
 
